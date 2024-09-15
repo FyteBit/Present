@@ -7,6 +7,9 @@ body{
     background-size: cover;
     background-attachment: fixed;
     color: indigo;
+    height: 100vh;
+    height: 100dvh;
+    color: black;
     
     
 }
