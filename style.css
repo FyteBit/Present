@@ -26,12 +26,13 @@ body{
         justify-self: center;
         text-align: center;
         font-size: 30px;
+        font-weight: 800;
     }
 
     .slide-text{
         justify-self: center;
         font-size: 20px;
-        font-weight: 500;
+        font-weight: 600;
     }
 
     .slide{
