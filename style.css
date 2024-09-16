@@ -12,7 +12,6 @@ body{
 
 @keyframes gradientText {
     0% {color: indigo;}
-    25% {color: blue;}
     50% {color: darkblue;}
     100% {color: black;}
 }
@@ -30,14 +29,14 @@ body{
         text-align: center;
         font-size: 30px;
         font-weight: 800;
-        animation: gradientText 5s ease-in-out infinite;
+        animation: gradientText 5s linear infinite;
     }
 
     .slide-text{
         justify-self: center;
         font-size: 20px;
         font-weight: 600;
-        animation: gradientText 5s ease-in-out infinite;
+        animation: gradientText 5s linear infinite;
     }
 
     .slide{
