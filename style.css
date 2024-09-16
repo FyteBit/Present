@@ -12,7 +12,7 @@ body{
 
 @keyframes gradientText {
     0% {color: indigo;}
-    50% {color: darkblue;}
+    /*50% {color: darkblue;}*/
     100% {color: black;}
 }
 
@@ -30,7 +30,7 @@ body{
         font-size: 30px;
         font-weight: 800;
         animation: gradientText 5s linear infinite;
-        animation-fill-mode: forwards;
+       /* animation-fill-mode: forwards;*/
     }
 
     .slide-text{
@@ -38,7 +38,7 @@ body{
         font-size: 20px;
         font-weight: 600;
         animation: gradientText 5s linear infinite;
-        animation-fill-mode: forwards;
+        /*animation-fill-mode: forwards;*/
     }
 
     .slide{
