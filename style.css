@@ -30,7 +30,7 @@ body{
     }
     
     .slide-title{
-        margin: 0 auto;
+        margin: 0;
         justify-self: center;
         text-align: center;
         font-size: 30px;
@@ -41,8 +41,9 @@ body{
     }
 
     .slide-text{
-        margin: 0 auto;
-        justify-self: center;
+        margin: 0;
+        text-align: center;
+        /*justify-self: center;*/
         font-size: 20px;
         font-weight: 600;
         animation: gradientText 5s linear infinite;
