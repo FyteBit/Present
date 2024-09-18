@@ -41,7 +41,7 @@ body{
     }
 
     .slide-text{
-        margin-top: 10px;
+        margin-top: 1rem;
         /*justify-self: center;*/
         font-size: 20px;
         font-weight: 600;
